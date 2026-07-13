@@ -7,4 +7,9 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\BoidsCore\BoidsCore.csproj" />
+      <ProjectReference Include="..\BoidsVisualizer\BoidsVisualizer.csproj" />
+    </ItemGroup>
+
 </Project>

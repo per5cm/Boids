@@ -5,11 +5,12 @@
         <TargetFramework>net10.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <RootNamespace>BoidsConsole</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\BoidsCore\BoidsCore.csproj" />
-      <ProjectReference Include="..\BoidsVisualizer\BoidsVisualizer.csproj" />
+      <ProjectReference Include="..\Boids.Core\Boids.Core.csproj" />
+      <ProjectReference Include="..\Boids.Visualizer\Boids.Visualizer.csproj" />
     </ItemGroup>
 
 </Project>

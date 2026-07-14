@@ -1,10 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoidsConsole", "BoidsConsole\BoidsConsole.csproj", "{DBD50055-C08D-43A2-8A76-C1251F59528A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boids.Console", "Boids.Console\Boids.Console.csproj", "{DBD50055-C08D-43A2-8A76-C1251F59528A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoidsCore", "BoidsCore\BoidsCore.csproj", "{096F8E65-9713-499D-AAD5-922AB965398F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boids.Core", "Boids.Core\Boids.Core.csproj", "{096F8E65-9713-499D-AAD5-922AB965398F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoidsVisualizer", "BoidsVisualizer\BoidsVisualizer.csproj", "{513C084A-FA6B-4698-84DC-250643092B83}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boids.Visualizer", "Boids.Visualizer\Boids.Visualizer.csproj", "{513C084A-FA6B-4698-84DC-250643092B83}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
